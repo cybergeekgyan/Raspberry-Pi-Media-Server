@@ -22,3 +22,29 @@
      * Streaming remote and third-party content
      * Controlling OSMC
      * Using an IR remote
+
+### OSMC 
+
+  - The Open Source Media Center, or OSMC, is a free and open-source media player that's based on Debian Linux. 
+  - Under development since 2014, it's now a mature and fully featured solution for media playback on the Raspberry Pi. 
+  - It was developed based on Kodi, formerly XBMC, the most common Raspberry Pi media center solution, and is largely cross-compatible with it.
+
+### OSMC Installer
+
+
+
+### OSMC's Main Limitation
+   
+   - Only few Third party streaming services work
+
+### Install OSMC to an SD card
+
+
+
+
+### SD card requirements
+
+  - Class 10 microSD card
+  - 512 MB capacity (1GB+ recommended)
+  - FAT32 format
+     - 32 GB maximum capacity 
